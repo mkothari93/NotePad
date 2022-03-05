@@ -2,6 +2,8 @@
 This page is licensed under: </br>
 ![badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
+Note Taker allows the user to write, delete, and store notes. Each note is stored in the database with the note title, note text, and a unique id. A note can be deleted from the database with its' appropriate unique id. This application is also deployed using Heroku.
+
 <br>
 
 ## Built With
@@ -11,6 +13,7 @@ This page is licensed under: </br>
 * Node.js
 * Express.js
 * NPM Modules: Express, fs, path, uuid
+* Heroku
 
 <br>
 
@@ -29,10 +32,16 @@ To install this application, clone this repository. Run '$npm i' command in the 
 <br>
 
 ## Usage
-Images of the deployed site:
+
+Images of the deployed:
+
+![note-taker-1](https://user-images.githubusercontent.com/90233589/156883325-42e63ef6-f83b-4d23-a102-9079a6b8bde6.PNG)
+site:
 
 
 Deployed website URL:
+
+https://mkothari-note-taker.herokuapp.com/
 
 
 <br>
