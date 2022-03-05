@@ -33,10 +33,9 @@ To install this application, clone this repository. Run '$npm i' command in the 
 
 ## Usage
 
-Images of the deployed:
+Images of the deployed site:
 
 ![note-taker-1](https://user-images.githubusercontent.com/90233589/156883325-42e63ef6-f83b-4d23-a102-9079a6b8bde6.PNG)
-site:
 
 
 Deployed website URL:
